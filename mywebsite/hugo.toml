@@ -1,4 +1,0 @@
-baseURL = 'https://example.org/'
-theme = "hugo-theme-monochrome"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
